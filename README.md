@@ -59,36 +59,29 @@ my-website/
 └── README.txt
 ```
 
-## Templates
-
-WRIGHT is also available with pre-configured templates:
-
-* **Bootstrap:** https://github.com/fouad-salehi/wrightForBootstrap
-* **Tailwind CSS:** https://github.com/fouad-salehi/wrightForTailwind
-
 ## Philosophy
 
 > Create the structure once. Focus on building.
 
 WRIGHT is designed to make the initial setup of a web project simple, fast, and organized.
 
+## WRIGHT Ecosystem
+
+* [WRIGHT](https://github.com/fouad-salehi/wright)
+
 ## Author
 
-**Fouad Salehi**
-
-GitHub: https://github.com/fouad-salehi
+**[Fouad Salehi](https://github.com/fouad-salehi)**
 
 ## License
 
-This project is proprietary software.
+WRIGHT is **proprietary software**.
 
-You may view and run the project for personal or evaluation purposes, subject to the terms of the `LICENSE` file.
+You may view and run the project for personal or evaluation purposes only. Copying, modifying, creating derivative works, incorporating the project into another project, or redistributing modified versions is **not** permitted.
 
-Copying, modifying, creating derivative works, incorporating the project into another project, or redistributing modified versions is not permitted.
+See the [LICENSE](./LICENSE) file for the complete terms.
 
-Redistribution of the original project is permitted only with clear and visible attribution to:
+## Copyright
 
-**Fouad Salehi / WRIGHT — Web Project Folder Structure**
-
-Any use beyond the permissions granted by the `LICENSE` requires prior written permission from the copyright owner.
+Copyright © 2026 Fouad Salehi. All rights reserved.
 
