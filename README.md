@@ -1,22 +1,24 @@
-# WRIGHT
+# wrightForVanilla
 
-![WRIGHT](https://img.shields.io/badge/version-1.1.0-important)
+![wrightForVanilla](https://img.shields.io/badge/version-1.1.0-important)
 ![Platform](https://img.shields.io/badge/platform-Node.js-green)
 ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 ![Purpose](https://img.shields.io/badge/purpose-folder%20generator-blue)
-![Run](https://img.shields.io/badge/run-node%20wright.js-important)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Run](https://img.shields.io/badge/run-node%20wrightForVanilla.js-important)
 
-**WRIGHT — A folder structure generator for web developers.**
+**WRIGHT for Vanilla — A folder structure generator for web developers.**
 
 ## Description
 
-WRIGHT is a simple and practical project structure generator designed for web developers and designers working with HTML, CSS, JavaScript, PHP, and related libraries and frameworks.
+WRIGHT for Vanilla is a simple and practical project structure generator designed for web developers and designers working with HTML, CSS, JavaScript, PHP, and related libraries and frameworks.
 
-It automatically creates a clean and organized project structure, helping developers save time during project setup and avoid manually creating and naming folders and files.
+It automatically creates a clean and organized project structure, helping developers save time during project setup and avoid manually creating folders and files.
 
 The generated structure includes:
 
-* An `index.html` file for front-end development
+* A ready-to-use `index.html` file
+* No framework — plain HTML, CSS, and JavaScript
 * A `dashboard/assets` directory
 * Separate folders for CSS, JavaScript, images, and fonts
 * A default `stylesheet.css`
@@ -31,7 +33,7 @@ Make sure [Node.js](https://nodejs.org/) is installed on your system.
 Then run:
 
 ```bash
-node wright.js
+node wrightForVanilla.js
 ```
 
 WRIGHT will ask you for a project name and create the project directory using the name you provide.
