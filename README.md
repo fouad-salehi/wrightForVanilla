@@ -36,7 +36,7 @@ Then run:
 node wrightForVanilla.js
 ```
 
-WRIGHT will ask you for a project name and create the project directory using the name you provide.
+WRIGHT for Vanilla will ask you for a project name and create the project directory using the name you provide.
 
 For example:
 
@@ -60,6 +60,62 @@ my-website/
 ├── favicon.ico
 └── README.txt
 ```
+
+## Project Structure
+
+### CSS
+
+Place stylesheets and CSS-related resources inside:
+
+```text
+dashboard/assets/css/
+```
+
+### JavaScript
+
+Place JavaScript files and related resources inside:
+
+```text
+dashboard/assets/js/
+```
+
+### Images
+
+Place project images, icons, and other visual assets inside:
+
+```text
+dashboard/assets/images/
+```
+
+### Fonts
+
+Place custom fonts and font-related resources inside:
+
+```text
+dashboard/assets/fonts/
+```
+
+## Libraries & Frameworks
+
+If your project uses additional libraries or frameworks, you can create an additional folder inside the appropriate technology directory.
+
+For example:
+
+```text
+dashboard/assets/js/
+├── libraries/
+└── app.js
+```
+
+or:
+
+```text
+dashboard/assets/css/
+├── libraries/
+└── stylesheet.css
+```
+
+This keeps third-party resources separated from your own project files and helps maintain a clean project structure.
 
 ## Philosophy
 
